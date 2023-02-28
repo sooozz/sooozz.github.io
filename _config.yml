@@ -1,7 +1,7 @@
 # Site
 title:              Su Ji Kim
-bio:                'I'm Web Developer.'
-description:        "This is Su Ji Kim's Portfolio."
+bio:                I'm Web Developer.
+description:        This is Su Ji Kim's Portfolio.
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/suji.jpg'
