@@ -1,5 +1,5 @@
 # Site
-title:              Su Ji Kim
+title:              Su Ji
 bio:                I'm Web Developer.
 description:        This is Su Ji Kim's Portfolio.
 reading_time:       true
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: 
+    base_url: https://sooozz.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
