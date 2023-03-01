@@ -30,14 +30,14 @@ disqus_shortname:   sooozz
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
-  plus:            suji04000809
+#google:
+  #plus:            username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email: suji04000809@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         sooozz
